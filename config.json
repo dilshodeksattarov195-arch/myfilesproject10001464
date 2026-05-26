@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordrocess",
+        "uuid": 14197872,
+        "checksum": "opxiic"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
